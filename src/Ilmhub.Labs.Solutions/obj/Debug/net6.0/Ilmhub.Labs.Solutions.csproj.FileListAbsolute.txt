@@ -1,0 +1,15 @@
+D:\projects\Labs\src\Ilmhub.Labs.Solutions\bin\Debug\net6.0\Ilmhub.Labs.Solutions.exe
+D:\projects\Labs\src\Ilmhub.Labs.Solutions\bin\Debug\net6.0\Ilmhub.Labs.Solutions.deps.json
+D:\projects\Labs\src\Ilmhub.Labs.Solutions\bin\Debug\net6.0\Ilmhub.Labs.Solutions.runtimeconfig.json
+D:\projects\Labs\src\Ilmhub.Labs.Solutions\bin\Debug\net6.0\Ilmhub.Labs.Solutions.dll
+D:\projects\Labs\src\Ilmhub.Labs.Solutions\bin\Debug\net6.0\Ilmhub.Labs.Solutions.pdb
+D:\projects\Labs\src\Ilmhub.Labs.Solutions\obj\Debug\net6.0\Ilmhub.Labs.Solutions.csproj.AssemblyReference.cache
+D:\projects\Labs\src\Ilmhub.Labs.Solutions\obj\Debug\net6.0\Ilmhub.Labs.Solutions.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\Labs\src\Ilmhub.Labs.Solutions\obj\Debug\net6.0\Ilmhub.Labs.Solutions.AssemblyInfoInputs.cache
+D:\projects\Labs\src\Ilmhub.Labs.Solutions\obj\Debug\net6.0\Ilmhub.Labs.Solutions.AssemblyInfo.cs
+D:\projects\Labs\src\Ilmhub.Labs.Solutions\obj\Debug\net6.0\Ilmhub.Labs.Solutions.csproj.CoreCompileInputs.cache
+D:\projects\Labs\src\Ilmhub.Labs.Solutions\obj\Debug\net6.0\Ilmhub.Labs.Solutions.dll
+D:\projects\Labs\src\Ilmhub.Labs.Solutions\obj\Debug\net6.0\refint\Ilmhub.Labs.Solutions.dll
+D:\projects\Labs\src\Ilmhub.Labs.Solutions\obj\Debug\net6.0\Ilmhub.Labs.Solutions.pdb
+D:\projects\Labs\src\Ilmhub.Labs.Solutions\obj\Debug\net6.0\Ilmhub.Labs.Solutions.genruntimeconfig.cache
+D:\projects\Labs\src\Ilmhub.Labs.Solutions\obj\Debug\net6.0\ref\Ilmhub.Labs.Solutions.dll
